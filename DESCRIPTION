@@ -1,7 +1,7 @@
 Package: ChAMPdata
 Type: Package
 Title: Data Packages for ChAMP package
-Version: 0.99.5
+Version: 0.99.6
 Date: 2013-10-07
 Author: Andrew Teschendorff and Lee Butcher
 Maintainer: Tiffany Morris <tiffany.morris@ucl.ac.uk>
