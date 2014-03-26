@@ -2,10 +2,10 @@ Package: ChAMPdata
 Type: Package
 Title: Data Packages for ChAMP package
 Version: 0.99.8
-Date: 2013-10-07
-Author: Andrew Teschendorff and Lee Butcher
+Date: 2014-03-26
+Author: Tiffany Morris, Andrew Teschendorff and Lee Butcher
 Maintainer: Tiffany Morris <tiffany.morris@ucl.ac.uk>
-Description: More about what it does (maybe more than one line)
+Description: Provides datasets needed for ChAMP and also a test dataset
 License: GPL-3
 Depends: R (>= 3.0.1)
 biocViews: ExpressionData, IlluminaChip

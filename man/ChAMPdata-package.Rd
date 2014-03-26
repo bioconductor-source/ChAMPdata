@@ -6,9 +6,10 @@
 Data Packages to use with the ChAMP Chip Analysis Methylation Pipeline 
 }
 \description{
-This includes three data packages. 
+This includes four data packages. 
 ProbeInfoALL.lv includes annotation for the 450k array as required by the BMIQ normalization.
 probe.features includes probe annotations for the 450k array as included in the saved results files for the MVP and DMR functions.
+champBloodCtls provides reference control data for the champ.CNA function.
 testDataSet includes loaded and filtered (for detection) p-value of 6 arrays for the 450k array along with an accompanying samples sheet.
 This can be used to test the package. In addition, the raw IDAT files for these 6 arrays are available and can be accessed using system.file().
 }
@@ -16,16 +17,16 @@ This can be used to test the package. In addition, the raw IDAT files for these 
 \tabular{ll}{
 Package: \tab ChAMPdata\cr
 Type: \tab Package\cr
-Version: \tab 0.99.5\cr
-Date: \tab 2013-10-07\cr
+Version: \tab 0.99.8\cr
+Date: \tab 2014-03-26\cr
 License: \tab GPL-3\cr
 }
-Two of the three packages are used internally by the ChAMP package. The testDataSet can be used to test the package.
+Three of the four packages are used internally by the ChAMP package. The testDataSet can be used to test the package.
 }
 \author{
+Tiffany Morris, UCL Cancer Institute, Medical Genomics;
 Lee Butcher, UCL Cancer Institute, Medical Genomics; 
 Andrew Teschendorff, UCL Cancer Institute, Statistical Genomics;
-Tiffany Morris, UCL Cancer Institute, Medical Genomics
 
 Maintainer: Tiffany Morris<tiffany.morris@ucl.ac.uk>
 }
@@ -34,6 +35,7 @@ Maintainer: Tiffany Morris<tiffany.morris@ucl.ac.uk>
 data(probeInfoALL.lv)
 data(probe.features)
 data(testDataSet)
+data(champBloodCtls)
 }
 
 \keyword{ package }
