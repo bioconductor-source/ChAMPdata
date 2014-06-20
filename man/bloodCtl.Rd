@@ -5,7 +5,7 @@
 %%   ~~ data name/kind ... ~~
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
+Blood control data for CNA analysis
 }
 \usage{data(bloodCtl)}
 \format{
