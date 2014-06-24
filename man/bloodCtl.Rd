@@ -2,7 +2,7 @@
 \alias{bloodCtl}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+Blood Control data
 }
 \description{
 Blood control data for CNA analysis
