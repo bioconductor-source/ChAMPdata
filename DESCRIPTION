@@ -2,7 +2,7 @@ Package: ChAMPdata
 Type: Package
 Title: Data Packages for ChAMP package
 Version: 1.1.1
-Date: 2014-06-10
+Date: 2014-06-24
 Author: Tiffany Morris, Lee Butcher and Andrew Teschendorff
 Maintainer: Tiffany Morris <tiffany.morris@ucl.ac.uk>
 Description: Provides datasets needed for ChAMP including a test dataset and blood controls for CNA analysis

@@ -17,8 +17,8 @@ This can be used to test the package. In addition, the raw IDAT files for these 
 \tabular{ll}{
 Package: \tab ChAMPdata\cr
 Type: \tab Package\cr
-Version: \tab 1.1.0\cr
-Date: \tab 2014-05-23\cr
+Version: \tab 1.1.1\cr
+Date: \tab 2014-06-24\cr
 License: \tab GPL-3\cr
 }
 Three of the four packages are used internally by the ChAMP package. The testDataSet can be used to test the package.
