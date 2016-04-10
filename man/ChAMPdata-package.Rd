@@ -17,18 +17,19 @@ This can be used to test the package. In addition, the raw IDAT files for these 
 \tabular{ll}{
 Package: \tab ChAMPdata\cr
 Type: \tab Package\cr
-Version: \tab 1.1.1\cr
-Date: \tab 2014-06-24\cr
+Version: \tab 1.9.3\cr
+Date: \tab 2016-03-22\cr
 License: \tab GPL-3\cr
 }
 Three of the four packages are used internally by the ChAMP package. The testDataSet can be used to test the package.
 }
 \author{
-Tiffany Morris, UCL Cancer Institute, Medical Genomics;
-Lee Butcher, UCL Cancer Institute, Medical Genomics; 
+Tiffany Morris, Cambridge Epigenetix;
+Yuan Tian, UCL Cancer Institute, Medical Genomics;
+Lee Stirling, UCL Cancer Institute, Medical Genomics; 
 Andrew Teschendorff, UCL Cancer Institute, Statistical Genomics;
 
-Maintainer: Tiffany Morris<tiffany.morris@ucl.ac.uk>
+Maintainer: Yuan Tian and Tiffany Morris <champ450k@gmail.com>
 }
 
 \examples{
@@ -36,6 +37,13 @@ data(probeInfoALL.lv)
 data(probe.features)
 data(testDataSet)
 data(champBloodCtls)
+data(EPICSimData)
+data(illumina450Gr)
+data(illuminaEPICGr)
+data(probeInfoALL.epic.lv)
+data(probe.features.epic)
+data(CellTypeMeans27K)
+data(CellTypeMeans450K)
 }
 
 \keyword{ package }

@@ -159,15 +159,15 @@ List of 6
   .. ..$ : chr [1:485512] "cg00050873" "cg00212031" "cg00213748" "cg00214611" ...
   .. ..$ : chr [1:2] "blood_1" "blood_2"
 }
-\details{
+%\details{
 %%  ~~ If necessary, more details than the __description__ above ~~
-}
-\source{
+%}
+%\source{
 %%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
+%}
+%\references{
 %%  ~~ possibly secondary sources and usages ~~
-}
+%}
 \examples{
 data(bloodCtl)
 ## maybe str(bloodCtl) ; plot(bloodCtl) ...
