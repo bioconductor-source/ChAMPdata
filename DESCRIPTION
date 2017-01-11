@@ -1,9 +1,9 @@
 Package: ChAMPdata
 Type: Package
 Title: Data Packages for ChAMP package
-Version: 2.3.0
-Date: 2016-10-01
-Author: Tiffany Morris [cre,aut], Lee Stirling [ctb], Yuan Tian [ctb,aut] and Andrew Teschendorff [ctb]
+Version: 2.6.0
+Date: 2016-12-27
+Author: Yuan Tian [ctb,aut], Tiffany Morris [cre,aut], Lee Stirling [ctb] and Andrew Teschendorff [ctb]
 Maintainer: Yuan Tian <champ450k@gmail.com>
 Description: Provides datasets needed for ChAMP including a test dataset and blood controls for CNA analysis.
 License: GPL-3
